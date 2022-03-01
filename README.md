@@ -6,3 +6,5 @@
 
 ## Link: https://chattersyard.herokuapp.com
 
+### A chat application build using MERN stack and Socket io which supports live chatting with single person and group of peoples
+
