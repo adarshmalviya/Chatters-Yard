@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap");
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  background-image: url("./images/home_bg.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+body {
+  font-family: "Akaya Telivigala", cursive !important;
+}
+*:focus {
+  box-shadow: none !important;
+}
+::-webkit-scrollbar {
+  display: none;
+}
